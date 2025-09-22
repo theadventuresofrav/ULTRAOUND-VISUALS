@@ -1,0 +1,5 @@
+{
+  "name": "Ultrasound Resolution Visualizer",
+  "description": "An interactive web application that visually explains the different types of resolution in ultrasound imaging: Axial, Lateral, Elevational, and Temporal.",
+  "requestFramePermissions": []
+}
